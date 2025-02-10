@@ -74,6 +74,8 @@ Activate the environment you just created:
 
 ```bash
 source .venv/bin/activate
+
+.venv\Scripts\activate (windows)
 ```
 
 Also, make sure pip has the most recent version.
